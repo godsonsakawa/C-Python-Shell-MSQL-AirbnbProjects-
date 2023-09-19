@@ -1,0 +1,12 @@
+/* === Footer syle === */
+
+footer {
+    background-color: #00f000;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0%;
+}
